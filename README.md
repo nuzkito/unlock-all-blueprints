@@ -1,5 +1,5 @@
 # How to install
-Download the mod from https://github.com/nuzkito/unlock-all-blueprints/releases/download/1.0.0/Unlock_Blueprints.zip
+Download the mod from https://github.com/nuzkito/unlock-all-blueprints/releases/download/2.0.0/Unlock_Blueprints.zip
 
 Go to the local mod folder and unzip it. 
 
